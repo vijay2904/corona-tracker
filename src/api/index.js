@@ -22,7 +22,7 @@ export const fetchData = async (country) => {
 
        // return response;
     } catch (error) {
-        console.log.log(error);
+        console.log(error);
     }
 }
 
